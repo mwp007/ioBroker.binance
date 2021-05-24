@@ -25,6 +25,7 @@ You may create an API Key on binance.com - i suggest to restrict it to "read-onl
 ![screenshot-1](screenshot-1.png) ![screenshot-2](screenshot-2.png)
 
 ## Changelog
+### 1.1.4 test
 ### 1.1.3
 - dependency update: lodash
 ### 1.1.2
